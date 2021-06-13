@@ -89,7 +89,7 @@ footer {
 -----------------------------*/
 /* ====== TOP IMAGE ====== */
 header .jumbotron-fluid {
-	background-image: url(../img/bg-top.jpg);
+	background-image: url(../img/top_background_image.png);
 	background-size: cover;
 	background-position: center;
 	min-height: 100%;
